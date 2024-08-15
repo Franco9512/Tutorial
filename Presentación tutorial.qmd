@@ -1,0 +1,39 @@
+---
+title: "Presentación.T"
+author: "Franco"
+format: 
+ revealjs:
+   footer: "[inicio](../../index.qmd)"
+   
+title-slide-attributes: 
+  data-background-image: "0.JPG"
+  data-background-size: "100%"
+  data-background-opacity: "40%"
+  
+lang: es
+
+
+---
+## ![](0.JPG)
+
+## Introducción
+:::{style="color:#DB7093"}
+:::{style="text-align:justify"}
+Uno de los componentes vitales de la biodiversidad forestal son los hongos, (Baldrian, 2017). Respecto a la diversidad de hongos, se estima que existen 2.2 a 3.8 millones de especies en el planeta y en México existen más de 200,000 especies, de las cuales sólo se conocen alrededor de 5%. Los hongos juegan un papel esencial en la regulación de los ecosistemas terrestres. Las micorrizas son asociaciones simbióticas entre hifas de cierto tipo de hongos y las raíces de aproximadamente 95% de las plantas terrestres. 
+:::
+:::
+
+## Continuación
+![](98.JPG)
+
+
+## Continuación 
+![](43.JPG)
+
+## Continuación 
+![](54.JPG)
+
+## Principales resultados para comité tutorial
+  ![](Diapositiva1.JPG)
+  
+  
