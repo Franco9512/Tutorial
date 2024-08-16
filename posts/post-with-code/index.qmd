@@ -1,0 +1,15 @@
+---
+title: "*Fusarium*"
+author: "Franco Maceo"
+date: "2024-08-06"
+categories: [news, code, analysis]
+image: "th.jpeg"
+---
+
+:::{style="text-align:justify"}
+*Fusarium oxysporum* es una especie de hongo causante de la marchitez vascular y de más de un centenar de enfermedades en otras tantas especies vegetales. Coloniza los conductos xilemáticos de la planta, bloqueando y tapando los vasos, lo que determina la aparición de síntomas de marchitamiento de hoja, amarilleo y eventualmente necrosis y muerte total de la planta.
+
+
+:::
+ 
+ ![](th.jpeg)

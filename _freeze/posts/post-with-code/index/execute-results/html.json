@@ -1,0 +1,15 @@
+{
+  "hash": "f4268d3d8e7968de5d78878fd15a234f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Fusarium\"\nauthor: \"Franco Maceo\"\ndate: \"2024-08-06\"\ncategories: [news, code, analysis]\nimage: \"th.jpeg\"\n---\n\n\n:::{style=\"text-align:justify\"}\nFusarium oxysporum es una especie de hongo causante de la enfermedad de Panamá en los bananeros y de más de un centenar de enfermedades en otras tantas especies vegetales. Coloniza los conductos xilemáticos de la planta, bloqueando y tapando los vasos, lo que determina la aparición de síntomas de marchitamiento de hoja, amarilleo y eventualmente necrosis y muerte total de la planta.\n\nEl interés en Fusarium oxysporum como pesticida comenzó desde el mismo momento de su descubrimiento en los 1960s, agente causante de la destrucción de la cocaína en Colombia.\n:::\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,6 +1,6 @@
 ---
-title: "Presentación.T"
-author: "Franco"
+title: "Presentación"
+author: "Franco Maceo"
 format: 
  revealjs:
    footer: "[inicio](../../index.qmd)"
@@ -36,4 +36,10 @@ Uno de los componentes vitales de la biodiversidad forestal son los hongos, (Bal
 ## Principales resultados para comité tutorial
   ![](Diapositiva1.JPG)
   
+  
+## Conclusiones 
+
+:::{style="text-align:justify"}
+La inoculación con hongos ectomicorrizicos y bacterias auxiliadoras a la micorrización en plantas de *Pinus patula* es una alternativa viable y la vez ecológica para la produción de plantas forestales de calidad.
+:::
   
